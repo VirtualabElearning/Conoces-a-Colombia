@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CooperStdBlack';
+    src: url('../font/cooperblackstd.eot');
+    src: url('../font/cooperblackstd.eot') format('embedded-opentype'),
+         url('../font/cooperblackstd.woff2') format('woff2'),
+         url('../font/cooperblackstd.woff') format('woff'),
+         url('../font/cooperblackstd.ttf') format('truetype'),
+         url('../font/cooperblackstd.svg#CooperStdBlack') format('svg');
+}

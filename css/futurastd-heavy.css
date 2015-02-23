@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FuturaStdHeavy';
+    src: url('../font/futurastd-heavy.eot');
+    src: url('../font/futurastd-heavy.eot') format('embedded-opentype'),
+         url('../font/futurastd-heavy.woff2') format('woff2'),
+         url('../font/futurastd-heavy.woff') format('woff'),
+         url('../font/futurastd-heavy.ttf') format('truetype'),
+         url('../font/futurastd-heavy.svg#FuturaStdHeavy') format('svg');
+}

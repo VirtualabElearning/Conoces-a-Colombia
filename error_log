@@ -1,0 +1,196 @@
+[05-Dec-2014 07:55:04 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 07:55:47 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:03:57 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:13:55 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:29:44 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:30:24 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:30:43 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 08:31:27 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:08:25 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:09:01 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:09:26 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:10:19 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:51:27 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:51:59 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:53:53 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:54:12 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:55:04 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:55:27 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[05-Dec-2014 09:56:55 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[06-Dec-2014 15:24:48 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[06-Dec-2014 15:25:46 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[09-Dec-2014 12:34:14 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:04:32 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:04:43 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:04:57 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:05:42 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:55:50 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
+[11-Dec-2014 10:56:52 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`virtuala_conoces`.`score`, CONSTRAINT `fk_Score_User` FOREIGN KEY (`UserID`) REFERENCES `user` (`UserID`) ON DELETE CASCADE ON UPDATE CASCADE)' in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php:429
+Stack trace:
+#0 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(429): PDOStatement->execute()
+#1 /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php(2004): ORM::_execute('INSERT INTO `sc...', Array, 'default')
+#2 /home/virtuala/public_html/conocesacolombia/index.php(90): ORM->save()
+#3 {main}
+  thrown in /home/virtuala/public_html/conocesacolombia/lib/idiorm/idiorm.php on line 429
